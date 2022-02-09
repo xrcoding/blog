@@ -20,7 +20,7 @@
 		<mybatis-plus.version>3.1.0</mybatis-plus.version>
 		<fastjson.version>1.2.46</fastjson.version>
 		<guava.version>28.1-jre</guava.version>
-		<shiro-spring-version>1.4.0</shiro-spring-version>
+		<shiro-spring-version>1.7.1</shiro-spring-version>
 	</properties>
 
 	<dependencies>
